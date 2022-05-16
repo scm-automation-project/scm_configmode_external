@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://github.com/scm-automation-project/config_repo/blob/main/xyz.config",
     "projectToken": "",
     "baseBranches": []
   },
