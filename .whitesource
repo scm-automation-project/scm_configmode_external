@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://github.com/scm-automation-project/config_repo/blob/main/whitesource.config",
+    "configExternalURL": "https://raw.githubusercontent.com/scm-automation-project/config_repo/main/whitesource.config",
     "projectToken": "",
     "baseBranches": []
   },
